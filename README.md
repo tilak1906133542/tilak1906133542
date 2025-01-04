@@ -9,7 +9,8 @@ I'm a recent Computer Science graduate with a passion for web development, data 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [tilak1906133542@gmail.com](mailto:tilak1906133542@gmail.com)
 *   🤝  I'm open to collaborating on I’m open to collaborating on web development projects, especially those using the MERN stack, and data analysis projects that involve deriving insights from data or building dashboards.
-*   ⚡  "I’m a curious learner who loves solving real-world problems with tech. When I’m not coding, you’ll find me exploring new technologies, reading about data trends, or experimenting with recipes in the kitchen!"<a href="https://www.github.com/tilak1906133542" target="_blank" rel="noreferrer">
+*   ⚡  "I’m a curious learner who loves solving real-world problems with tech. When I’m not coding, you’ll find me exploring new technologies, reading about data trends, or experimenting with recipes in the kitchen!"
+*   <a href="https://www.github.com/tilak1906133542" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/tilak1906133542?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills 
 <p align="left">
